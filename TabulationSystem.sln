@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabulationSystem", "TabulationSystem\TabulationSystem.csproj", "{B361E70D-D72B-42F0-9418-8571CEA79B5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TabulationSystem", "TabulationSystem\TabulationSystem.csproj", "{B361E70D-D72B-42F0-9418-8571CEA79B5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChineseFamilyRestaurant", "..\ChineseFamilyRestaurant\ChineseFamilyRestaurant\ChineseFamilyRestaurant.csproj", "{DAE7B0D7-EA55-4E97-8384-89B1AA11D4F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNET_Core_3", "..\ASPNET_Core_3_0_Full_Project\ASPNET_Core_3\ASPNET_Core_3.csproj", "{5C9BC62A-76C2-493D-A71A-33EC7F772F58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B361E70D-D72B-42F0-9418-8571CEA79B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B361E70D-D72B-42F0-9418-8571CEA79B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B361E70D-D72B-42F0-9418-8571CEA79B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE7B0D7-EA55-4E97-8384-89B1AA11D4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE7B0D7-EA55-4E97-8384-89B1AA11D4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE7B0D7-EA55-4E97-8384-89B1AA11D4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE7B0D7-EA55-4E97-8384-89B1AA11D4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9BC62A-76C2-493D-A71A-33EC7F772F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9BC62A-76C2-493D-A71A-33EC7F772F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9BC62A-76C2-493D-A71A-33EC7F772F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9BC62A-76C2-493D-A71A-33EC7F772F58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
